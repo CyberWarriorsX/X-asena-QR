@@ -53,14 +53,14 @@ app.use("/", (req, res) => {
               index: 1,
               urlButton: {
                 displayText: "Copy Code",
-                url: `https://www.whatsapp.com/otp/copy/${c2}`,
+                url: `https://www.whatsapp.com/otp/copy/${c}`,
               },
             },
             {
               index: 2,
               urlButton: {
-                displayText: "Github",
-                url: `github.com/Neeraj-x0/Millie-MD`,
+                displayText: "Copy Code",
+                url: `https://www.whatsapp.com/otp/copy/${c2}`,
               },
             },
           ];
