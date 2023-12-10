@@ -53,7 +53,7 @@ app.use("/", (req, res) => {
               index: 1,
               urlButton: {
                 displayText: "Copy Code",
-                url: `https://www.whatsapp.com/otp/copy/${c}`,
+                url: `https://www.whatsapp.com/otp/copy/${c2}`,
               },
             },
             {
